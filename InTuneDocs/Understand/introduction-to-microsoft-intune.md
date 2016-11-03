@@ -6,7 +6,8 @@ experiment_id: kgremban_images_080416
 title: Introduction to Microsoft Intune | Microsoft Intune
 description: Learn how Intune is the mobile device management component of the Enterprise Mobility + Security solution.
 keywords:
-author: Lindavrms.author: lindavr
+author: Lindavr
+ms.author: lindavr
 manager: angrobe
 ms.date: 08/10/2016
 ms.topic: article
@@ -27,7 +28,7 @@ ms.suite: ems
 
 ---
 
-# Introduction to Intune
+# Introduction to Microsoft Intune
 Microsoft Intune is the management arm of Microsoft Enterprise Mobility + Security (EMS, formerly Enterprise Mobility Suite). Enterprise mobility is about enabling your employees to be productive on all of their devices while keeping your organization's information protected.  
 
 EMS is a complete, integrated suite for enterprise mobility inclusive of productivity, identity, access control, management, and data protection. It gives you an effective way to deploy and operate a mobility solution in your organization.  
